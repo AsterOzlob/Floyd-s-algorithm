@@ -1,0 +1,14 @@
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\bin\Debug\net7.0\Алгоритм Флойда.exe
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\bin\Debug\net7.0\Алгоритм Флойда.deps.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\bin\Debug\net7.0\Алгоритм Флойда.runtimeconfig.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\bin\Debug\net7.0\Алгоритм Флойда.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\bin\Debug\net7.0\Алгоритм Флойда.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.AssemblyInfoInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.AssemblyInfo.cs
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.csproj.CoreCompileInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\refint\Алгоритм Флойда.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\Алгоритм Флойда.genruntimeconfig.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\5 лаба\Алгоритм Флойда\obj\Debug\net7.0\ref\Алгоритм Флойда.dll
